@@ -1,3 +1,4 @@
+rucni konfliktek vole
 novy radek
 pokus o novy rucni konflikt na vedlejsi vetvi
 --------------
