@@ -1,4 +1,5 @@
-pokus o rucni konflikt
+novy radek
+pokus o novy rucni konflikt na vedlejsi vetvi
 --------------
 11111111111111111
 prvni
